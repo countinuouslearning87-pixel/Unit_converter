@@ -49,7 +49,7 @@ input, button {
 
 #main {
     width: 550px;
-    background: #red;
+    background: red;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
