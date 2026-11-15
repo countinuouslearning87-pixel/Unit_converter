@@ -24,7 +24,7 @@ body {
     font-size: 3.5em;
     text-align: center;
     font-weight: bolder;
-    width: 120px;
+    width: 120gpx;
     height: 80px;
     border: 2px solid white;
     padding: 10px;
@@ -49,7 +49,7 @@ input, button {
 
 #main {
     width: 550px;
-    background: #1F2937;
+    background: #red;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
